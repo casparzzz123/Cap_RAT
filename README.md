@@ -1,2 +1,2 @@
-# virus-bajus
-A Simple Virus! (This does not harm your computer)
+# Cap-RAT
+A very simple rat...
