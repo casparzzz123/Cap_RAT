@@ -1,7 +1,7 @@
 import socket
 
 HOST = socket.gethostbyname(socket.gethostname())
-PORT = 8081
+PORT = 8080
 
 server = socket.socket()
 server.bind((HOST, PORT))
